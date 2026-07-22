@@ -83,12 +83,11 @@
 ## 6. Структура репозитория
 
 ```
-fundamentals-of-neural-networks/
+fundamentals-of-ann/
 ├── README.md                  (этот файл)
 ├── LICENSE.md
-├── CONTRIBUTING.md
 ├── .gitignore
-├── docs/                      (РПД, портреты уровней, чек-лист)
+├── docs/                      (РПД, портреты уровней)
 ├── M1-fundamentals-of-ann/    (ПР 1–4 + рубрики)
 ├── M2-complex-models/         (ПР 5–10 + рубрики)
 ├── Project/                   (2 кейс-задачи)
@@ -105,8 +104,6 @@ fundamentals-of-neural-networks/
 1. Изучить [`docs/rpd.md`](docs/rpd.md) и целевые роли КРМ.
 2. Сверить коды компетенций/индикаторов с [`data/krm-v3.0.xlsx`](data/krm-v3.0.xlsx).
 3. Проверить модель измерения (раздел 2) и матрицу [`data/role-competency-matrix.csv`](data/role-competency-matrix.csv).
-4. При обновлении КИМ/рубрик — следовать [`CONTRIBUTING.md`](CONTRIBUTING.md).
-5. Перед сдачей — пройти по [`docs/quality-checklist.md`](docs/quality-checklist.md).
 
 ## 8. Учёт замечаний экспертного бюро
 

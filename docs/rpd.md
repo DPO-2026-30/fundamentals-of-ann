@@ -188,7 +188,7 @@
 
 ## 6. Система оценки результатов обучения
 
-Применяется балльно-рейтинговая система (БРС). Подробное описание шкал, рубрик, правил анти-чита и перевода баллов — в [`README.md`](../README.md#итоговая-оценка) и [`methodical-guidelines/teachers-assessment/`](../methodical-guidelines/teachers-assessment/README.md).
+Применяется балльно-рейтинговая система (БРС). Подробное описание шкал, рубрик, правил анти-чита и перевода баллов — в [`README.md`](../README.md#4-итоговая-оценка) и [`methodical-guidelines/teachers-assessment/`](../methodical-guidelines/teachers-assessment/README.md).
 
 ### 6.1. Структура баллов (максимум 100)
 
