@@ -8,7 +8,7 @@
 - **Программное обеспечение** ([`../../resources/software/python-libs/`](../../resources/software/python-libs/README.md)): numpy, PyTorch, torchvision, scikit-learn, matplotlib, flake8. Версии — актуальные на момент проведения.
 - **Научная литература** ([`../../resources/papers/`](../../resources/papers/README.md)): статьи Белого списка / уровня А* из РПД.
 - **Учебная литература** ([`../../resources/textbooks/`](../../resources/textbooks/README.md)): основная и дополнительная.
-- **Вопросы** ([`../../resources/test-banks/`](../../resources/test-banks/README.md)): 49 вопросов к зачёту и 37 к защитам ПР — основа для билетов и собеседований.
+- **Вопросы** ([`../../resources/test-banks/`](../../resources/test-banks/README.md)): 54 вопроса к зачёту и 37 к защитам ПР — основа для билетов и собеседований.
 
 ## Использование генеративного ИИ при подготовке материалов
 

@@ -25,7 +25,7 @@
 
 ## 5. Материалы и ресурсы
 
-- Перечень вопросов к зачёту (49 вопросов) и вопросов к защитам ПР (37) — [`resources/test-banks/`](../resources/test-banks/README.md).
+- Перечень вопросов к зачёту (54 вопроса) и вопросов к защитам ПР (37) — [`resources/test-banks/`](../resources/test-banks/README.md).
 - Программное обеспечение — [`resources/software/python-libs/`](../resources/software/python-libs/README.md).
 
 ## 6. Задание
@@ -51,4 +51,4 @@
 
 ## 10. Вопросы (источник)
 
-Перечень вопросов, выносимых на промежуточную аттестацию, — [`resources/test-banks/`](../resources/test-banks/README.md) (49 вопросов).
+Перечень вопросов, выносимых на промежуточную аттестацию, — [`resources/test-banks/`](../resources/test-banks/README.md) (54 вопроса).
