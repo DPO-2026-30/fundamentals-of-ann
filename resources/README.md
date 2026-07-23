@@ -8,7 +8,7 @@
 | --- | --- |
 | [`textbooks/`](textbooks/README.md) | Учебники (основная и дополнительная литература) |
 | [`papers/`](papers/README.md) | Научные статьи (Белый список / уровень А*) |
-| [`test-banks/`](test-banks/README.md) | Банки тестовых вопросов (к зачёту, к защитам ПР) |
+| [`test-banks/`](test-banks/README.md) | Банки тестовых вопросов (к зачёту, к защитам ПР, закрытые тесты к ПР) |
 | [`problem-banks/`](problem-banks/README.md) | Банки задач и вариантов |
 | [`datasets/`](datasets/README.md) | Наборы данных |
 | [`benchmarks/`](benchmarks/README.md) | Бенчмарки |
